@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Programming\c++_ws\Queue-Cpp\Queue-Cpp\Queue.h(60,92): warning C4244: 'initializing': conversion from 'float' to 'uint32_t', possible loss of data
+C:\Programming\c++_ws\Queue-Cpp\Queue-Cpp\Queue.h(60,3): message : while compiling class template member function 'JC::Queue<int>::Queue(uint32_t,float)'
+C:\Programming\c++_ws\Queue-Cpp\Queue-Cpp\main.cpp(6,21): message : see the first reference to 'JC::Queue<int>::Queue' in 'main'
+C:\Programming\c++_ws\Queue-Cpp\Queue-Cpp\main.cpp(6,17): message : see reference to class template instantiation 'JC::Queue<int>' being compiled
+C:\Programming\c++_ws\Queue-Cpp\Queue-Cpp\Queue.h(218,29): warning C4018: '<=': signed/unsigned mismatch
+C:\Programming\c++_ws\Queue-Cpp\Queue-Cpp\Queue.h(213,2): message : while compiling class template member function 'void JC::Queue<int>::print(void)'
+C:\Programming\c++_ws\Queue-Cpp\Queue-Cpp\main.cpp(11,12): message : see the first reference to 'JC::Queue<int>::print' in 'main'
+C:\Programming\c++_ws\Queue-Cpp\Queue-Cpp\Queue.h(225,29): warning C4018: '<': signed/unsigned mismatch
+C:\Programming\c++_ws\Queue-Cpp\Queue-Cpp\Queue.h(229,23): warning C4018: '<=': signed/unsigned mismatch
+  Queue-Cpp.vcxproj -> C:\Programming\c++_ws\Queue-Cpp\x64\Debug\Queue-Cpp.exe
